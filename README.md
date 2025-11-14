@@ -77,7 +77,7 @@ swift main.swift (ou o PLAY da IDE)
 === STATUS DO SOBREVIVENTE ===
 Saúde: 85
 Energia: 60
-Inventário: ["Água", "Comida Enlatada", "Kit Médico"]
+Inventário: ["Água", "Comida Enlatada", "Medicamentos"]
 ===============================
 
 O que você deseja fazer?
