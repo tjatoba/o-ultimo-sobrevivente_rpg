@@ -1,4 +1,4 @@
-# 🗑️ O Último Sobrevivente - RPG Pós-Apocalíptico
+# 🗑️ O Último Sobrevivente
 
 Um jogo de RPG em Swift ambientado em um mundo pós-apocalíptico onde você é um dos poucos sobreviventes.
 
