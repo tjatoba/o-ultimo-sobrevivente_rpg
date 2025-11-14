@@ -111,5 +111,4 @@ Este projeto é educativo e aberto para melhorias. Sinta-se à vontade para:
 
 ---
 
-**Boa sorte, sobrevivente! Que você encontre esperança neste mundo devastado.** 🗑️⚡# o-ultimo-sobrevivente_rpg
- Sistema de Combate em Swift, desenvolvido para a conclusão do workshop "Apple Developer Academy", simulando batalhas num mundo pós apocalíptico, calculando danos, determinando vencedores e distribuindo recompensas.
+**Boa sorte, sobrevivente! Que você encontre esperança neste mundo devastado.** 🗑️⚡
